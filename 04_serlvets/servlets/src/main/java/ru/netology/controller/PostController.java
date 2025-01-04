@@ -1,6 +1,7 @@
 package ru.netology.controller;
 
 import com.google.gson.Gson;
+import org.springframework.web.servlet.mvc.Controller;
 import ru.netology.model.Post;
 import ru.netology.service.PostService;
 
